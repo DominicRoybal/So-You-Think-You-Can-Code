@@ -1,4 +1,4 @@
-# Challenge1
+# Title
 So-You-Think-You-Can-Code​
 
 ## Image
