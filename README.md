@@ -1,5 +1,12 @@
-# Challenge1
+# Title
 So-You-Think-You-Can-Code​
+
+## Image
+![image](https://user-images.githubusercontent.com/109049233/182965954-2bc286a0-1426-411d-98b9-937e5666776b.png)
+
+## Link
+
+https://dominicroybal.github.io/So-You-Think-You-Can-Code/#search-engine-optimization
 
 ## User Story
 I WANT a codebase that follows accessibility standards
